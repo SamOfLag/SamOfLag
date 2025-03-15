@@ -2,6 +2,7 @@
 ### 👋 Hey there! I'm Samson Oladapo but you can call me The Bridge Builder  <br>
 🚀 Full-Stack Developer | MERN Stack<br>
 👩‍🎤  I'm a passionate software engineer who thrives on building **scalable, high-performance applications**. <br>
+💡 Always open to collaborations, discussions, and new opportunities! Let’s build something great together. 🚀 <br>
 
 
 ## 🌐 Socials:
